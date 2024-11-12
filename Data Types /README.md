@@ -38,10 +38,10 @@ Examples:
 
 ```short int a = -10;
 long double pi = 3.1415926535;
-unsigned int positive = 100;``
+unsigned int positive = 100;```
 # Declaring and Initializing Variables
 In C++, variables must be declared before they are used. This is done by specifying the data type followed by the variable name.
 
 Syntax:
 
-``data_type variable_name = value;''
+```data_type variable_name = value;```
