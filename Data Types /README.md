@@ -7,8 +7,6 @@ This README provides an overview of data types and variables in C++, covering th
 2. [What are Variables?](#what-are-variables)
 3. [Basic Data Types in C++](#basic-data-types-in-c)
 4. [Modifiers for Data Types](#modifiers-for-data-types)
-5. [Declaring and Initializing Variables](#declaring-and-initializing-variables)
-6. [Best Practices](#best-practices)
 
 ---
 
