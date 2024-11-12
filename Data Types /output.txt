@@ -1,0 +1,5 @@
+integer value is : 123
+char value is : v
+boolean value is :1
+float value is : 1.2
+double value is : 4.557
